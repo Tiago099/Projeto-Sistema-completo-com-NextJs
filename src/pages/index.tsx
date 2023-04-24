@@ -3,6 +3,6 @@
 
 export default function Home() {
   return (
-    <div>TESTE</div>
+    <div>Sujeito Programador</div>
   )
 }
